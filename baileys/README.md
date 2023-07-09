@@ -31,7 +31,7 @@ yarn add @adiwajshing/baileys
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```
-yarn add github:adiwajshing/baileys
+yarn add github:Towartz/baileys
 ```
 
 Then import your code using:
