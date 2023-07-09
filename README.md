@@ -1,2 +1,2 @@
 # baileys
-My Baileys For SingleAutn Latest Version
+My Baileys For SingleAuth Latest Version
